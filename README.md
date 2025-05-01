@@ -33,7 +33,9 @@ BlackJack Game es una aplicación web interactiva desarrollada con HTML, CSS, Ja
 
 ## Instalación
 
-> No se requiere instalación adicional para utilizar este proyecto.
+> Para trabajar con este proyecto, necesitarás tener instalado:
+>
+> - **Node.js** (versión 14 o superior)
 
 ## Uso
 
@@ -42,13 +44,13 @@ Para visualizar el proyecto localmente, sigue estos pasos:
 1. Clona este repositorio:
 
 ```
-git clone https://github.com/JMatochePascual/BlackJack-Game.git
+git clone https://github.com/JMatochePascual/BlackJack.git
 ```
 
 2. Navega al directorio del proyecto:
 
 ```
-cd BlackJack-Game
+cd BlackJack
 ```
 
 3. Abre el archivo `index.html` en tu navegador web preferido
