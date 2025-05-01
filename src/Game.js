@@ -9,7 +9,6 @@ class Game {
     this.maxPoint = 21;
     this.winnerMessage = '';
     this.computerShift = false;
-
     this.loadDeck();
   };
 
