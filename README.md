@@ -53,9 +53,17 @@ git clone https://github.com/JMatochePascual/BlackJack.git
 cd BlackJack
 ```
 
-3. Abre el archivo `index.html` en tu navegador web preferido
+3. Instala las dependencias necesarias:
 
-4. Opcionalmente, puedes usar un servidor local como Live Server para una mejor experiencia
+```
+npm install
+```
+
+4. Inicia el servidor en modo desarrollo:
+
+```
+npm run dev
+```
 
 ## Contribución
 
