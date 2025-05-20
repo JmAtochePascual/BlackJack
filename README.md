@@ -1,4 +1,4 @@
-# BalckJack
+# Black Jack
 
 BlackJack Game es una aplicación web interactiva desarrollada con HTML, CSS, JavaScript y Bootstrap, que simula una partida clásica de Blackjack entre un jugador y la computadora. Ofrece botones para iniciar el juego, pedir cartas y detenerse. El sistema calcula automáticamente los puntajes y determina el ganador según las reglas básicas del Blackjack.
 
